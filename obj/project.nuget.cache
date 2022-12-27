@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n6nvw5Ac4JUSLpghSS6SMObI8RL8AGf9Pdec8W/FveJb60h0+6zfxc//lpfoS03ahaTL5PSdb1eNoKdZA7wtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilalsellak\\Documents\\dotnet\\SampleDotnetMqtt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilalsellak\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\bilalsellak\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.1\\microsoft.netcore.app.host.linux-x64.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
