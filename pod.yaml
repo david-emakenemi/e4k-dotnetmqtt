@@ -16,7 +16,7 @@ spec:
             expirationSeconds: 86400
   containers:
     - name: publisherclient
-      image: demakenemi/myimagename:latest
+      image: <name_of_docker_image>
       volumeMounts:
         - name: mqtt-client-token
           mountPath: /var/run/secrets/tokens
